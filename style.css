@@ -1,0 +1,54 @@
+body {
+    background-color: darkgray;
+    margin: 10;
+}
+
+header {
+    background-color: rgb(50, 50, 122);
+    color: white;
+    padding: 7px;
+    text-align: center;
+}
+
+nav {
+    /* background: linear-gradient (red blue white); */
+    background-color: aqua;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 5;
+    margin: 7px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+main h2 {
+    color: white;
+}
+
+section{
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+footer {
+    background-color: rgb(50, 50, 122);
+    color: white;
+    padding: 7px;
+    text-align: center;
+}
